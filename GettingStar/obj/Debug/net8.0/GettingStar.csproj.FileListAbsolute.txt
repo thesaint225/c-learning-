@@ -1,0 +1,15 @@
+/Users/henrymiessan/Desktop/c#/GettingStar/bin/Debug/net8.0/GettingStar
+/Users/henrymiessan/Desktop/c#/GettingStar/bin/Debug/net8.0/GettingStar.deps.json
+/Users/henrymiessan/Desktop/c#/GettingStar/bin/Debug/net8.0/GettingStar.runtimeconfig.json
+/Users/henrymiessan/Desktop/c#/GettingStar/bin/Debug/net8.0/GettingStar.dll
+/Users/henrymiessan/Desktop/c#/GettingStar/bin/Debug/net8.0/GettingStar.pdb
+/Users/henrymiessan/Desktop/c#/GettingStar/obj/Debug/net8.0/GettingStar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henrymiessan/Desktop/c#/GettingStar/obj/Debug/net8.0/GettingStar.AssemblyInfoInputs.cache
+/Users/henrymiessan/Desktop/c#/GettingStar/obj/Debug/net8.0/GettingStar.AssemblyInfo.cs
+/Users/henrymiessan/Desktop/c#/GettingStar/obj/Debug/net8.0/GettingStar.csproj.CoreCompileInputs.cache
+/Users/henrymiessan/Desktop/c#/GettingStar/obj/Debug/net8.0/GettingStar.sourcelink.json
+/Users/henrymiessan/Desktop/c#/GettingStar/obj/Debug/net8.0/GettingStar.dll
+/Users/henrymiessan/Desktop/c#/GettingStar/obj/Debug/net8.0/refint/GettingStar.dll
+/Users/henrymiessan/Desktop/c#/GettingStar/obj/Debug/net8.0/GettingStar.pdb
+/Users/henrymiessan/Desktop/c#/GettingStar/obj/Debug/net8.0/GettingStar.genruntimeconfig.cache
+/Users/henrymiessan/Desktop/c#/GettingStar/obj/Debug/net8.0/ref/GettingStar.dll
