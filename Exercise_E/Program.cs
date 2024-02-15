@@ -1,65 +1,46 @@
 ﻿namespace Exercise_E;
+using System;
 
 class Program
 {
     static void Main(string[] args)
     {
-        //Declaration
-        int moyenne;
+        // Prompt the user to enter a number
+        Console.Write("Enter a number: ");
 
-        Console.Write("Entrez votre moyenne :");
-
-        // read the input from the user as a string
-
+        // Read the input from the user as a string
         string input = Console.ReadLine();
-
-        // Convert the string input to an integer
 
         try
         {
             // Convert the string input to an integer
-            moyenne = int.Parse(input);
+            int number = int.Parse(input);
 
-            if (moyenne >= 16)
+            // Provide feedback based on the value of the number
+            if (number > 16)
             {
                 Console.WriteLine("Très bien !");
             }
-            else if (moyenne <= 15)
+            else if (number >= 14)
             {
-
-                Console.WriteLine("bien ");
-
+                Console.WriteLine("Bien !");
             }
-            else if (moyenne <= 13)
+            else if (number >= 12)
             {
-                Console.WriteLine("assez-bien: ");
-
+                Console.WriteLine("Assez bien !");
             }
-            else if (moyenne <= 11)
+            else if (number >= 10)
             {
-                Console.WriteLine("passable ");
-
+                Console.WriteLine("Passable !");
             }
             else
             {
-                Console.WriteLine("recallez ");
-
+                Console.WriteLine("Recalé !");
             }
-
-
-
-
-
-
         }
         catch (FormatException)
         {
-
             Console.WriteLine("Please enter a valid integer.");
-
         }
-
-
-
     }
 }
