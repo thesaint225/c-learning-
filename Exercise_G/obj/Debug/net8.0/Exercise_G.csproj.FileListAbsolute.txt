@@ -1,0 +1,15 @@
+/Users/henrymiessan/Desktop/c#/Exercise_G/bin/Debug/net8.0/Exercise_G
+/Users/henrymiessan/Desktop/c#/Exercise_G/bin/Debug/net8.0/Exercise_G.deps.json
+/Users/henrymiessan/Desktop/c#/Exercise_G/bin/Debug/net8.0/Exercise_G.runtimeconfig.json
+/Users/henrymiessan/Desktop/c#/Exercise_G/bin/Debug/net8.0/Exercise_G.dll
+/Users/henrymiessan/Desktop/c#/Exercise_G/bin/Debug/net8.0/Exercise_G.pdb
+/Users/henrymiessan/Desktop/c#/Exercise_G/obj/Debug/net8.0/Exercise_G.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henrymiessan/Desktop/c#/Exercise_G/obj/Debug/net8.0/Exercise_G.AssemblyInfoInputs.cache
+/Users/henrymiessan/Desktop/c#/Exercise_G/obj/Debug/net8.0/Exercise_G.AssemblyInfo.cs
+/Users/henrymiessan/Desktop/c#/Exercise_G/obj/Debug/net8.0/Exercise_G.csproj.CoreCompileInputs.cache
+/Users/henrymiessan/Desktop/c#/Exercise_G/obj/Debug/net8.0/Exercise_G.sourcelink.json
+/Users/henrymiessan/Desktop/c#/Exercise_G/obj/Debug/net8.0/Exercise_G.dll
+/Users/henrymiessan/Desktop/c#/Exercise_G/obj/Debug/net8.0/refint/Exercise_G.dll
+/Users/henrymiessan/Desktop/c#/Exercise_G/obj/Debug/net8.0/Exercise_G.pdb
+/Users/henrymiessan/Desktop/c#/Exercise_G/obj/Debug/net8.0/Exercise_G.genruntimeconfig.cache
+/Users/henrymiessan/Desktop/c#/Exercise_G/obj/Debug/net8.0/ref/Exercise_G.dll
