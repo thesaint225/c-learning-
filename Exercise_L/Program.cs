@@ -1,4 +1,9 @@
-﻿namespace Exercise_L;
+﻿/**
+Exercise 13 :boucle sucessive 
+Author : Miessan Henri
+Date :  20-02 -24
+*/
+namespace Exercise_L;
 
 class Program
 {
