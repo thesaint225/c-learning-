@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Ask the user to enter a sentence
+        // Ask the user to ente a sentence
         Console.WriteLine("Enter a sentence:");
         string sentence = Console.ReadLine();
 
